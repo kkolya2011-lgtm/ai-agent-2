@@ -6,7 +6,7 @@ from openai import OpenAI
 # ================= НАСТРОЙКИ =================
 BOT_TOKEN = "9129022129:AAHtyhw4lNF6etn3yy6iXKeejFfDn5gSWRs"
 BASE_URL = "https://api.reformboss.com/v1"
-API_KEY  = "sk-6ca46564cca5dc7ddff1c978dc426f6ce044876a2f85645c"
+API_KEY  = "sk-fdi3AeYvJ3hQ2Zw2YWEpbgo7O53F7LXr"
 MODEL    = "deepseek-v4.1-flash"
 
 client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
